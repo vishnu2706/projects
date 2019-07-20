@@ -1,0 +1,6 @@
+dropoff_date,tpep_dropoff_datetime,Borough,Zone,Trip_distance
+2018-01-01,2018-01-01 01:26:24,Manhattan,TriBeCa/Civic Center,9.49
+2018-01-01,2018-01-01 01:11:58,Queens,LaGuardia Airport,9.10
+2018-01-01,2018-01-01 00:52:12,Manhattan,Flatiron,7.30
+2018-01-01,2018-01-01 01:09:38,Manhattan,Manhattan Valley,6.80
+2018-01-01,2018-01-01 00:56:17,Manhattan,UN/Turtle Bay South,6.50
